@@ -40,6 +40,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Predicting the Real USD/TRY Rates with MARS](https://datageeek.com/2023/04/11/predicting-the-real-usd-try-rates-with-mars/)
 
++ [11 tricks to level up your rmarkdown documents](https://eliocamp.github.io/codigo-r/en/2023/04/knitr-rmarkdown-tricks/)
 
 ### R in the Real World
 
